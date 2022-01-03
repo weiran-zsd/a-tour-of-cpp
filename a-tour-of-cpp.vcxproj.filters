@@ -27,5 +27,8 @@
     <ClCompile Include="03-module.ixx">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04-classes.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

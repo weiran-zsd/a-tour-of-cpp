@@ -139,7 +139,6 @@ void __fn() {
 		cout << key << value << "\n";
 	}
 
-	complex<double> z = { 1,2 };
-	auto [re, im] = z + 2;
-
+	std::complex<double> z = { 1,2 };
+	auto e = z + 2.;
 }
