@@ -56,7 +56,7 @@ void f(complex z) {
 
 // 4.2.2 ÈÝÆ÷
 // RAII
-class Vector {
+export class Vector {
 public:
 	Vector(int s=0): elem{new double[s]}, sz{s} {
 		for (int i = 0; i != s; i++) elem[i] = 0;
