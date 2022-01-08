@@ -4,7 +4,7 @@
 #include <thread>
 #include <cassert>
 import _03_module;
-export module _06_operate;
+export module _05_operate;
 
 using namespace std;
 
@@ -193,9 +193,9 @@ void _5_4_2(vector<int> c) {
 // 5.4.3 io
 
 // 5.4.4 用户自定义字面值
-constexpr complex<double> operator""i(long double arg) {
-	return { 0, arg };
+complex<double> operator""_i(long double arg) {
+	return complex<double>(0, arg);
 }
 
-complex<double> z = 1.1 + 6.2i;
+complex<long double> z = 1.1 + 5.0_i;
 

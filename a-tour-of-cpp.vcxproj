@@ -146,7 +146,8 @@
     <ClCompile Include="02-udt.ixx" />
     <ClCompile Include="03-module.ixx" />
     <ClCompile Include="04-classes.ixx" />
-    <ClCompile Include="06-operate.ixx" />
+    <ClCompile Include="05-operate.ixx" />
+    <ClCompile Include="06-template.ixx" />
     <ClCompile Include="a-tour-of-cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

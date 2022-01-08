@@ -30,7 +30,10 @@
     <ClCompile Include="04-classes.ixx">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="06-operate.ixx">
+    <ClCompile Include="05-operate.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-template.ixx">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
