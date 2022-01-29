@@ -152,6 +152,7 @@
     <ClCompile Include="07-concept.ixx" />
     <ClCompile Include="08-std.ixx" />
     <ClCompile Include="09-string.ixx" />
+    <ClCompile Include="10-io.ixx" />
     <ClCompile Include="a-tour-of-cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -45,5 +45,8 @@
     <ClCompile Include="09-string.ixx">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10-io.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
