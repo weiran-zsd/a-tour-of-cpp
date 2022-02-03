@@ -153,6 +153,11 @@
     <ClCompile Include="08-std.ixx" />
     <ClCompile Include="09-string.ixx" />
     <ClCompile Include="10-io.ixx" />
+    <ClCompile Include="11-container.ixx" />
+    <ClCompile Include="12-alg.ixx" />
+    <ClCompile Include="13-ultities.ixx" />
+    <ClCompile Include="14-maths.ixx" />
+    <ClCompile Include="15-par.ixx" />
     <ClCompile Include="a-tour-of-cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

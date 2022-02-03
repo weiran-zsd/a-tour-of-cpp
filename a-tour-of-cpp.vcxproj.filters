@@ -48,5 +48,20 @@
     <ClCompile Include="10-io.ixx">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11-container.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12-alg.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13-ultities.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14-maths.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15-par.ixx">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

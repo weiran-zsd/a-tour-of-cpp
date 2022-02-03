@@ -163,7 +163,7 @@ void h() {
 // smiley
 
 class Point {};
-class Shape {
+export class Shape {
 public:
 	virtual Point center()const = 0;
 	virtual void move(Point to) = 0;

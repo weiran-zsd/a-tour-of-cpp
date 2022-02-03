@@ -111,13 +111,13 @@ Target to(Source arg) {
 }
 
 // 10.9 c-style i/o
-void f() {
+void f9() {
 	ios_base::sync_with_stdio(false);
 }
 
 // 10.10 fs
 
-void fs() {
+void fs10() {
 	path f = "C:/hy.cpp";
 	assert(exists(f));
 
